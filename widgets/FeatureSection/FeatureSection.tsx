@@ -1,4 +1,4 @@
-import FeatureImage from '@/entities/FeatureEntities/FeatureImage';
+import { FeatureImage } from '@/entities/FeatureEntities';
 import FeatureList from '../FeatureList/FeatureList';
 
 const FeatureSection = () => {

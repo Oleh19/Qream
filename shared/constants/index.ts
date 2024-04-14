@@ -79,8 +79,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
-    { label: 'Admin Officer', href: '/', value: '123456789' },
-    { label: 'Email Officer', href: '/', value: 'deckart212@gmail.com' },
+    { label: 'Phone ', href: '/', value: '123456789' },
+    { label: 'Email ', href: '/', value: 'deckart212@gmail.com' },
   ],
 };
 

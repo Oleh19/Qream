@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import FooterColumn from '../../entities/FooterEntities/FooterColumn';
+import FooterColumn from '../../entities/FooterEntities/UI/FooterColumn';
 
 interface LinkItem {
   href: string;

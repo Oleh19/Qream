@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import FooterColumn from '../../entities/FooterEntities/FooterColumn';
+import FooterColumn from '../../entities/FooterEntities/UI/FooterColumn';
 
 interface SocialLink {
   src: string;

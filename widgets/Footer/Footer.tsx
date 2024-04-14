@@ -2,8 +2,8 @@ import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from '@/shared/constants';
 import FooterContactInfo from '@/widgets/FooterContactInfo/FooterContactInfo';
 import FooterLinkColumn from '@/widgets/FooterLinkColumn/FooterLinkColumn';
 import FooterSocials from '@/widgets/FooterSocials/FooterSocials';
-import FooterLine from '@/entities/FooterEntities/FooterLine';
-import FooterDescription from '@/entities/FooterEntities/FooterDescription';
+import { FooterLine } from '@/entities/FooterEntities';
+import { FooterDescription } from '@/entities/FooterEntities';
 import Logo from '@/entities/UI/Logo';
 
 const Footer = () => {

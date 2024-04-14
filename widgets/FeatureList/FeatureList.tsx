@@ -1,5 +1,5 @@
+import { FeatureItem } from '@/entities/FeatureEntities';
 import { FEATURES } from '@/shared/constants';
-import FeatureItem from '@/entities/FeatureEntities/FeatureItem';
 
 const FeatureList = () => {
   return (

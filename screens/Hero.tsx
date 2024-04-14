@@ -1,6 +1,4 @@
-import Header from '@/entities/HeroEntities/Header';
-import StarRating from '@/entities/HeroEntities/StarRating';
-import SubscriptionForm from '@/entities/HeroEntities/SubscriptionForm';
+import { Header, StarRating, SubscriptionForm } from '@/entities/HeroEntities';
 import { ActionButtons } from '@/widgets';
 
 const Hero = () => {

@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-const PhoneImage = () => {
+const FeathureImage = () => {
   return (
     <div className='flex flex-1 lg:min-h-[900px]'>
       <Image
@@ -14,4 +14,4 @@ const PhoneImage = () => {
   );
 };
 
-export default PhoneImage;
+export default FeathureImage;
